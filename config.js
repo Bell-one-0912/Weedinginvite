@@ -44,7 +44,7 @@ const CONFIG = {
     tel: "02-540-0711",
     mapLinks: {
       kakao: "https://place.map.kakao.com/17157328",
-      naver: "https://map.naver.com/p/search/%EB%85%B8%EB%B8%94%EB%B0%9C%EB%A0%8C%ED%8B%B0%20%EC%82%BC%EC%84%B1/place/12390329?c=15.00,0,0,0,dh&placePath=/home?bk_query=%EB%85%B8%EB%B8%94%EB%B0%9C%EB%A0%8C%ED%8B%B0%20%EC%82%BC%EC%84%B1&entry=pll&from=map&fromPanelNum=2&timestamp=202604302308&locale=ko&svcName=map_pcv5&searchText=%EB%85%B8%EB%B8%94%EB%B0%9C%EB%A0%8C%ED%8B%B0%20%EC%82%BC%EC%84%B1"
+      naver: "https://naver.me/5uIYZdsZ"
     }
   },
 
